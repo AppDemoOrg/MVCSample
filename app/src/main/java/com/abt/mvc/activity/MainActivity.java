@@ -3,8 +3,9 @@ package com.abt.mvc.activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.abt.mvc.MainImpl;
-import com.abt.mvc.MainModel;
+import com.abt.mvc.base.BaseActivity;
+import com.abt.mvc.impl.MainImpl;
+import com.abt.mvc.model.MainModel;
 import com.abt.mvc.R;
 import com.orhanobut.logger.Logger;
 

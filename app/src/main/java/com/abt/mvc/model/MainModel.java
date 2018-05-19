@@ -1,4 +1,4 @@
-package com.abt.mvc;
+package com.abt.mvc.model;
 
 import android.widget.TextView;
 
